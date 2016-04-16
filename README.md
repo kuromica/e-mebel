@@ -1,2 +1,0 @@
-# subsos
-Surabaya Society
