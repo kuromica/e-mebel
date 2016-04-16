@@ -1,0 +1,17 @@
+.foto{
+	height: 150px;
+	width: 150px;
+	background-color: black;
+}
+.teks{
+  width: 100%;
+  color: #BCBCBC;
+  resize: none;
+  background: none;
+  padding: 10px;
+  outline: none;
+  border: 1px solid #BCBCBC;
+  margin-top: 1.4%;
+  font-family: 'Lato', sans-serif;
+  margin-bottom: 10px;
+}
