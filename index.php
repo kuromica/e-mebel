@@ -242,8 +242,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="col-md-4 footer-left">
 					<h3>Address</h3>
 					<p>RKN Company, 
-					<span>Jalan Leuser 28,</span>
-					(0341) 331 757.</p>
+					<span>Jalan Leuser 28</span>
+					(0341) 331 757</p>
 				</div>
 				<div class="clearfix"></div>
 			</div>
