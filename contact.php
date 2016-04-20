@@ -89,7 +89,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<p>berikut adalah map ke toko ofline kami.</p>
 				</div>
 				<div class="col-md-8 contact-right">
-					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d103344.96318068985!2d-83.9250825!3d35.9584634!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x885c162246ce42a9%3A0x7bea92dac4f534c5!2sKnoxville%2C+TN%2C+USA!5e0!3m2!1sen!2sin!4v1434174666221" frameborder="0" style="border:0"></iframe>
+					<iframe src="https://www.google.co.id/maps/place/Jl.+Simp.+Leuser,+Pisang+Candi,+Sukun,+Kota+Malang,+Jawa+Timur/@-7.9677358,112.6073873,17z/data=!3m1!4b1!4m2!3m1!1s0x2e7882867572e225:0xb6149876bfeaabfe" frameborder="0" style="border:0"></iframe>
 				</div>
 				<div class="clearfix"></div>
 			</div>
