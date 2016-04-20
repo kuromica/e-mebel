@@ -230,7 +230,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="col-md-4 footer-left">
 					<p>Design by Raka Kurnia N</a></p>
 				</div>
-				<div class="col-md-8 footer-left">
+				<div class="col-md-4 footer-left">
 					<h3>Follow Us</h3>
 					<ul>
 						<li><a href="#"><span class="fb"> </span></a></li>
