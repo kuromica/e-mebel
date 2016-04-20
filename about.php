@@ -7,7 +7,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE html>
 <html>
 <head>
-<title>E-MEUBEL a Interior & Furniture Category Flat Bootstarp responsive Website Template | About :: w3layouts</title>
+<title>E-MEUBEL | Interior & Furniture | About</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="keywords" content="Majestic Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template, 
@@ -87,13 +87,13 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<div class="container">
 			<div class="about-top heading">
 				<h1>ABOUT US</h1>
-				<h4>Pilih Model, Pilih Warna, Langsung Order.</h4>
-				<p>Dari moto kami sudah terlihat jelas bahwa hanya disinilah pelanggan dapat mengcustom warna furniture sesuai keiingannya. Tidak hanya itu berbagaimacam jenis model dan produsen yang kami tawarkan sehingga pelanggan tidak akan merasa model yang kami tawarkan terlalu sedikit.</p>
+				<h4>Pilih Model, Langsung Order.</h4>
+				<p>Kami menawarkan pengalaman dan kemudahan dalam berbelanja meubel disini. Web ini merupakan web crowdsourcing dimana supplier dapat mengambil bagian dalam menjual meubelnya dengan mendaftarkan dulu pada admin. Tidak hanya itu berbagai macam jenis model dan produsen yang kami tawarkan sehingga pelanggan tidak akan merasa model yang kami tawarkan terlalu sedikit.</p>
 				<div class="about-bottom">
 					<div class="col-md-4 about-left">
 						<a href="single.html"></a>
 						<h5><a href="single.html">What We Do</a></h5>
-						<p>Kami memasarkan produk dari supplier kepada Anda. tidak hanya dari 1 produsen saja, kami memasarkan dari banyak produsen mebel berbahan MDF.</p>
+						<p>Kami memasarkan produk dari supplier kepada Anda. Tidak hanya dari 1 produsen saja, kami memasarkan dari banyak produsen mebel berbahan MDF.</p>
 					</div>
 					<div class="col-md-4 about-left">
 						<a href="single.html"></a>
@@ -132,8 +132,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<p>2</p>
 							</div>
 							<div class="ad-right">
-								<h4><a href="single.html">Pilih Warna sesukamu</a></h4>
-								<p>Kebanyakan furniture hanya memiliki warna yang begitu-begitu saja dan banyak pelanggan yang menginginkan warna yang lain untuk mengatasinya kami pun menawarkan custum warna untuk setiap pembelian furnitur di website kami. </p>
+								<h4><a href="single.html">Mudah dalam Prosesnya</a></h4>
+								<p>Berbagai kemudahan kami tawarkan dalam berbelanja meubel secara online. Supplier pun dapat dengan mudah memasarkan meubelnya pada web ini dengan menghubungi admin.</p>
 							</div>
 							<div class="clearfix"></div>
 						</div>
@@ -152,8 +152,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="col-md-6 advantages-left heading">
 				<h3>OUR SKILLS</h3>
 			<div class="advn-two">
-						<h4>Erci eu tincidunt lacinia, elit quam ultri ces ipsum, quis ultricies ipsum ante</h4>
-						<p>Donec sagittis interdum tellus sed bibendum. Aen ean fringilla ut lacus eu vehicula. Curabitur non nibh quis nisi vestibulum aliquet non sed dolor. Ut est risus, consectetur sit amet pretium in, cursus in dui. Donec ac rhoncus libero.</p>
+						<h4>Keamanan dalam website ini terjamin sehingga transaksi dapat dilakukan dengan aman dan nyaman.</h4>
+						<p>Kami telah berpengalaman dalam hal bisnis E-Commerce</p>
 						<ul>
 							<li><a href="#">Handal.</a></li>
 							<li><a href="#">Pengantaran barang cepat sampai tujuan.</a></li>
@@ -184,7 +184,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									<div class="ch-info-front ch-img-1"></div>
 									<div class="ch-info-back">
 										<h3>Project Leader</h3>
-										<p>Tri Nugroho</p>
+										<p>Raka Kurnia N</p>
 									</div>	
 								</div>
 							</div>
@@ -197,7 +197,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									<div class="ch-info-front ch-img-1"></div>
 									<div class="ch-info-back">
 										<h3>System Analyst</h3>
-										<p>Kharisma Aprilia</p>
+										<p>Raka Kurnia N</p>
 									</div>
 								</div>
 							</div>
@@ -210,7 +210,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									<div class="ch-info-front ch-img-1"></div>
 									<div class="ch-info-back">
 										<h3>Desaigner</h3>
-										<p>Firman Eko P.</p>
+										<p>Raka Kurnia N</p>
 									</div>
 								</div>
 							</div>
@@ -223,7 +223,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									<div class="ch-info-front ch-img-1"></div>
 									<div class="ch-info-back">
 										<h3>Programmer</h3>
-										<p>Nanda Kurnia W.</p>
+										<p>Raka Kurnia N</p>
 									</div>
 								</div>
 							</div>
@@ -239,7 +239,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<div class="container">
 			<div class="footer-top">
 				<div class="col-md-4 footer-left">
-					<p>Design by Team 2</a></p>
+					<p>Design by Raka Kurnia N</a></p>
 				</div>
 				<div class="col-md-4 footer-left">
 					<h3>Follow Us</h3>
@@ -252,9 +252,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="col-md-4 footer-left">
 					<h3>Address</h3>
-					<p>NTKF Company, 
-					<span>Jalan Ahmad Yani 25,</span>
-					(0341) 331 757.</p>
+					<p>RKN Company 
+					<span>Jalan Leuser 28</span>
+					(0341) 331 757</p>
 				</div>
 				<div class="clearfix"></div>
 			</div>
