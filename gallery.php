@@ -7,7 +7,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE html>
 <html>
 <head>
-<title>E-MEUBEL a Interior & Furniture Category Flat Bootstarp responsive Website Template | Gallery :: w3layouts</title>
+<title>E-MEUBEL | Interior & Furniture | Gallery</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="keywords" content="Majestic Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template, 
@@ -173,7 +173,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<div class="container">
 			<div class="footer-top">
 				<div class="col-md-4 footer-left">
-					<p>Design by Team 2</a></p>
+					<p>Design by Raka Kurnia N</a></p>
 				</div>
 				<div class="col-md-4 footer-left">
 					<h3>Follow Us</h3>
@@ -186,9 +186,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="col-md-4 footer-left">
 					<h3>Address</h3>
-					<p>NTKF Company, 
-					<span>Jalan Ahmad Yani 25,</span>
-					(0341) 331 757.</p>
+					<p>RKN Company 
+					<span>Jalan Leuser 28</span>
+					(0341) 331 757</p>
 				</div>
 				<div class="clearfix"></div>
 			</div>
