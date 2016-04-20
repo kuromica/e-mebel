@@ -168,21 +168,20 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<div class="categories">
 						<h3>CATEGORIES</h3>
 						<ul>
-							<li><a href="#">Aenean tortor orci</a></li>
-							<li><a href="#">Duis bibendum pellentesquev</a></li>
-							<li><a href="#">Quisque pharetra semper</a></li>
-							<li><a href="#">Cras condimentum risus</a></li>
-							<li><a href="#"> Quisque id erat sapien</a></li>
+							<li><a href="#">Kursi</a></li>
+							<li><a href="#">Meja</a></li>
+							<li><a href="#">Sofa</a></li>
+							<li><a href="#">Lemari</a></li>
+							<li><a href="#">Furniture</a></li>
 						</ul>
 					</div>
 					<div class="categories">
 						<h3>RECENT POSTS</h3>
 						<ul>
-							<li><a href="#">Fusce id volutpat est</a></li>
-							<li><a href="#">Phasellus condimentum odio</a></li>
-							<li><a href="#">Donec interdum eros elit</a></li>
-							<li><a href="#">Cras condimentum risus</a></li>
-							<li><a href="#">Proin sodales diam ac </a></li>
+							<li><a href="#">Kursi Cozy</a></li>
+							<li><a href="#">Set Kursi dan Meja</a></li>
+							<li><a href="#">Furniture Bathroom</a></li>
+							<li><a href="#">Meja Unik</a></li>
 						</ul>
 					</div>
 				</div>
