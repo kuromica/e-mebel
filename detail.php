@@ -1,9 +1,9 @@
 <?php
 include "koneksi.php";
-$getProduk=mysql_query("select * from produk where id='$_GET [id]'");
-$getKomentar=mysql_query("select * from komentar where id_produk='$_GET [id]'");
+$getProduk=mysql_query("select * from produk where id='$_GET[id]'");
+$getKomentar=mysql_query("select * from komentar where id_produk='$_GET[id]'");
 if(isset($_COOKIE['username'])){
-	$getProfile = mysql_query("select * from user where username='$_COOKIE [username]'");
+	$getProfile = mysql_query("select * from user where username='$_COOKIE[username]'");
 	$profile = mysql_fetch_array($getProfile);
 }
 $periksa=mysql_num_rows($getKomentar);
