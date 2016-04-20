@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>E-MEUBEL a Interior & Furniture Category Flat Bootstarp responsive Website Template | Contact :: w3layouts</title>
+<title>E-MEUBEL | Interior & Furniture | Register</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="keywords" content="Majestic Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template, 
@@ -110,9 +110,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="col-md-4 footer-left">
 					<h3>Address</h3>
-					<p>The company name, 
-					<span>Lorem ipsum dolor,</span>
-					Glasglow Dr 40 Fe 72.</p>
+					<p>RKN Company 
+					<span>Jalan Leuser 28</span>
+					(0341) 331 757</p>
 				</div>
 				<div class="clearfix"></div>
 			</div>
