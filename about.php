@@ -1,9 +1,3 @@
-<!--A Design by W3layouts
-Author: W3layout
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
--->
 <!DOCTYPE html>
 <html>
 <head>
@@ -88,7 +82,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="about-top heading">
 				<h1>ABOUT US</h1>
 				<h4>Pilih Model, Langsung Order.</h4>
-				<p>Kami menawarkan pengalaman dan kemudahan dalam berbelanja meubel disini. Web ini merupakan web crowdsourcing dimana supplier dapat mengambil bagian dalam menjual meubelnya dengan mendaftarkan dulu pada admin. Tidak hanya itu berbagai macam jenis model dan produsen yang kami tawarkan sehingga pelanggan tidak akan merasa model yang kami tawarkan terlalu sedikit.</p>
+				<p>Kami menawarkan pengalaman dan kemudahan dalam berbelanja meubel disini. Web ini merupakan web crowdsourcing dimana supplier dapat mengambil bagian dalam menjual meubelnya dengan mendaftarkan dulu pada admin. Tidak hanya itu berbagai macam jenis model dan produsen yang kami tawarkan sehingga pelanggan tidak akan merasa model yang kami tawarkan terlalu sedikit. Cara pembelian furniture pada website ini sangat mudah. Anda hanya tinggal memilih barang dan Transfer ke ADMIN dengan No. Rekening 0089 67554365 766 Bank BCA atas Nama Raka Kurnia N. Setelah transfer anda masuk ke cart wishlist dan klik order lalu isi Nama Penerima dan Alamatnya dan upload foto bukti transfer dalam format jp atau png dengan ukuran tidak lebih dari 1 MB. Setelah itu admin akan memvalidasi transaksi tersebut dan barang pesanan akan langsung diantar sesuai dengan alamat penerima.</p>
 				<div class="about-bottom">
 					<div class="col-md-4 about-left">
 						<a href="single.html"></a>
