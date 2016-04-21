@@ -1,11 +1,11 @@
 <?php
 include "koneksi.php";
 			$ekstensi_diperbolehkan	= array('png','jpg','PNG');
-			$nama = $_FILES['file']['name'];
+			$nama = $_FILES['bukti']['name'];
 			$x = explode('.', $nama);
 			$ekstensi = strtolower(end($x));
-			$ukuran	= $_FILES['file']['size'];
-			$file_tmp = $_FILES['file']['tmp_name'];	
+			$ukuran	= $_FILES['bukti']['size'];
+			$file_tmp = $_FILES['bukti']['tmp_name'];	
  
 			if(in_array($ekstensi, $ekstensi_diperbolehkan) === true){
 				if($ukuran < 1044070){			
