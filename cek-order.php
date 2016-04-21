@@ -1,6 +1,6 @@
 <?php
 include "koneksi.php";
-			$ekstensi_diperbolehkan	= array('png','jpg');
+			$ekstensi_diperbolehkan	= array('png','jpg','PNG');
 			$nama = $_FILES['file']['name'];
 			$x = explode('.', $nama);
 			$ekstensi = strtolower(end($x));
