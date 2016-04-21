@@ -97,7 +97,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<div class="container">
 			<div class="footer-top">
 				<div class="col-md-4 footer-left">
-					<p>Design by <a href="http://w3layouts.com/" target="_blank"> W3layouts</a></p>
+					<p>Design by Raka Kurnia N</p>
 				</div>
 				<div class="col-md-4 footer-left">
 					<h3>Follow Us</h3>
