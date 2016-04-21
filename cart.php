@@ -134,10 +134,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 										<h2 class="modal-title" id="myModalLabel"><strong>Order</strong></h2>
 									  </div>
 									  <div class="modal-body">
-										<form action="cek-order.php" method="POST">
+										<form action="cek-order.php" method="POST" enctype="multipart/form-data"> 
 										  <input type="hidden" name="id" value="<?php echo $transaksi['id_transaksi']; ?>">
 										  <input type="text" name="penerima" class="form-control" placeholder="Nama Penerima"><br>
 										  <textarea name="alamat" class="form-control" placeholder="Alamat Pengiriman"></textarea><br>
+										  <input type="file" name="bukti">
 										  <input type="submit" class="btn btn-primary" value="Order">
 										</form>
 									  </div>
