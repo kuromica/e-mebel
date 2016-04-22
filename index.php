@@ -78,12 +78,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	</div>	
 	<!----end-header---->
 	<!--banner-starts-->
-	<!--<div class="banner" id="home">
+	<div class="banner" id="home">
 		<div class="container">
 			
 		</div>
 	</div>
-	-->
+	
 	<!--banner-ends--> 
 	
 			<!--End-slider-script-->
