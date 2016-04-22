@@ -266,6 +266,6 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								</script>
 		<a href="#home" id="toTop" class="scroll" style="display: block;"> <span id="toTopHover" style="opacity: 1;"> </span></a>
 	</div>
-	<!--footer-ends--> 
+	<!--footer-ends-- > 
 </body>
 </html>
