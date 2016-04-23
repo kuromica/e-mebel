@@ -232,7 +232,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<div class="footer">
 		<div class="container">
 			<div class="footer-top">
-				<div class="col-md-4 footer-left">
+				<div class="col-md-4 footer-left" id='raka'>
 					<p>Design by Raka Kurnia N</a></p>
 				</div>
 				<div class="col-md-4 footer-left">
