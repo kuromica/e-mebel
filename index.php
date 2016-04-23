@@ -12,7 +12,7 @@ $getBestOffers=mysql_query("select * from produk");
 Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyErricsson, Motorola web design" />
 
 <link href='http://fonts.googleapis.com/css?family=Titillium+Web:400,200,200italic,300,300italic,400italic,600,600italic,700,700italic,900' rel='stylesheet' type='text/css'>
-<!-- <link href="css/bootstrap.css" rel='stylesheet' type='text/css' /> -->
+<link href="css/bootstrap.css" rel='stylesheet' type='text/css' /> 
 <link href="css/style.css" rel='stylesheet' type='text/css' /> 
 
 <script src="js/jquery-1.11.0.min.js"></script>
