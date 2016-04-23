@@ -70,6 +70,13 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<li><a href="cart.php"><img src="images/bag.png" alt="" /></a><span> </span></li>
 				</ul>
 			</div>
+				 <!-- script-for-menu -->
+		 <script>
+				$("span.menu").click(function(){
+					$(" ul.navig").slideToggle("slow" , function(){
+					});
+				});
+		 </script>
 		 <!-- script-for-menu -->
 		</div>
 	</div>	
@@ -87,6 +94,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<!--welcome-starts--> 
 	<div class="welcome">
 		<div class="container">
+		
 		<section class="slider">
                 <div class="flexslider">
                     <ul class="slides">
@@ -154,6 +162,22 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
           </ul>
         </div>
       </section>
+	  <!--FlexSlider-->
+	<link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" />
+	<script defer src="js/jquery.flexslider.js"></script>
+	<script type="text/javascript">
+    $(function(){
+      SyntaxHighlighter.all();
+    });
+    $(window).load(function(){
+      $('.flexslider').flexslider({
+        animation: "slide",
+        start: function(slider){
+          $('body').removeClass('loading');
+        }
+      });
+    });
+  </script>
 			<div class="welcome-top">
 				<h1>WELCOME TO OUR SITE</h1>
 				<p> Disini kami menawarkan banyak jenis dan model furniture dari berbagai macam produsen dengan bahan dasar kayu MDF yang harganya cukup terjangkau. Nikmati pengalaman dan kemudahan berbisnis meubel bersama kami. </p>
