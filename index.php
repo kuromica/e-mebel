@@ -70,13 +70,6 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<li><a href="cart.php"><img src="images/bag.png" alt="" /></a><span> </span></li>
 				</ul>
 			</div>
-				 <!-- script-for-menu -->
-		 <script>
-				$("span.menu").click(function(){
-					$(" ul.navig").slideToggle("slow" , function(){
-					});
-				});
-		 </script>
 		 <!-- script-for-menu -->
 		</div>
 	</div>	
